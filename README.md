@@ -22,4 +22,4 @@ A plataforma apresenta informações sobre benefícios da saúde física e menta
 ## Objetivo
 
 O objetivo do projeto é praticar desenvolvimento front-end criando uma interface moderna, agradável e acessível para usuários interessados em saúde e bem-estar.
-https://bek02k.github.io/Competi-es-Senac---Avalia-es---Manh-/
+https://bek02k.github.io/Regional-Senac-Competition
